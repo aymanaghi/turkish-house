@@ -1,0 +1,32 @@
+category,emoji,name_ru,name_en,desc_ru,desc_en,price,qty,lunch,available,image
+Первые блюда / Soups,🥣,Суп чечевичный,Lentil soup,,,6,15,yes,yes,img-soup-lentil.jpg
+Первые блюда / Soups,🍲,Суп куриный,Chicken soup,,,7,10,yes,yes,img-soup-chicken.jpg
+Первые блюда / Soups,🫘,Суп фасоль,Bean soup,,,12,,no,yes,img-soup-bean.jpg
+Первые блюда / Soups,🍖,Суп с бараниной,Lamb soup,,,,,no,no,img-soup-lamb.jpg
+Первые блюда / Soups,🥩,Суп с говядиной,Beef soup,,,10,0,no,yes,img-soup-beef.jpg
+Первые блюда / Soups,🫘,Суп с нутом,Chickpea soup,,,,,no,no,img-soup-chickpea.jpg
+Вторые блюда / Mains,🍛,Плов с говядиной,Beef plov,,,10 / 12 / 15,12,yes,yes,img-plov.jpg
+Вторые блюда / Mains,🥟,Манты с говядиной,Beef manti,,,10 / 15,3,yes,yes,img-manti.jpg
+Вторые блюда / Mains,🍗,Рис с курицей,Rice with chicken,,,,,no,no,
+Вторые блюда / Mains,🍚,Рис с говядиной,Rice with beef,,,,,no,no,
+Вторые блюда / Mains,🫑,Перец фаршированный,Stuffed peppers,,,,,no,no,
+Вторые блюда / Mains,🍃,Долма,Dolma,,,,,no,no,img-dolma.jpg
+Вторые блюда / Mains,🍆,Баклажан кебаб,Eggplant kebab,Баклажаны запечённые с фаршем,Baked eggplant with minced meat,,,no,no,img-eggplant-kebab.jpg
+Вторые блюда / Mains,🧆,Измир кёфте,Izmir köfte,,,,,no,no,img-izmir-kofte.jpg
+Вторые блюда / Mains,🥩,Искендер кебаб,Iskender kebab,,,,,no,no,img-iskender.jpg
+Вторые блюда / Mains,🍚,Рис отварной,Boiled rice,,,5,,no,yes,
+Пиде / Pide,🫓,Пиде с говядиной,Beef pide,,,,,no,no,
+Пиде / Pide,🫓,Пиде с курицей,Chicken pide,,,,,no,no,
+Пиде / Pide,🧀,Пиде с сыром,Cheese pide,,,,,no,no,
+Пиде / Pide,🫓,Пиде с фаршем,Minced meat pide,,,,,no,no,
+Пиде / Pide,🫓,Пиде микс,Mixed pide,,,,,no,no,
+Пиде / Pide,🍕,Лахмаджун,Lahmacun,,,,,no,no,
+Салаты / Salads,🥗,Салат чобан,Shepherd's salad (çoban),,,5,,no,yes,
+Десерты / Desserts,🍯,Пахлава турецкая,Turkish baklava,,,2,20,no,yes,
+Напитки / Drinks,🥛,Айран,Ayran,,,2,,no,yes,
+Напитки / Drinks,🍋,Лимонад,Lemonade,,,2.5,,no,yes,
+Напитки / Drinks,🥤,Пепси кола,Pepsi,,,3,,no,yes,
+Напитки / Drinks,🥤,Миринда,Mirinda,,,3,,no,yes,
+Напитки / Drinks,🥤,Севенап,7Up,,,3,,no,yes,
+Напитки / Drinks,🫖,Чай,Tea,,,1.5,,no,yes,
+Напитки / Drinks,☕,Кофе,Coffee,,,,,no,no,

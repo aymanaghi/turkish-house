@@ -1,0 +1,15 @@
+{
+  "name": { "ru": "Turkish house", "en": "Turkish house" },
+  "tagline": { "ru": "Турецкая домашняя кухня · Халяль", "en": "Turkish home cooking · Halal" },
+  "currency": "BYN",
+  "phone": "",
+  "address": { "ru": "", "en": "" },
+  "hours": "",
+  "lunch": {
+    "title": { "ru": "Обед дня", "en": "Lunch of the day" },
+    "time": "12:00–16:00"
+  },
+  "low_stock": 3,
+  "refresh_seconds": 60,
+  "sheet_csv_url": ""
+}
